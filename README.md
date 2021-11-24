@@ -19,10 +19,12 @@ As mentioned before, this app is made by blocks of code using the App Inventor C
  ![Screen 1 code blocks](https://i.ibb.co/K91RZnP/Screenshot-9.png)
  
  2. Scan QR screen:
+ 
  ![Scan QR components](https://i.ibb.co/y6JSKJZ/Screenshot-6.png)
  ![Scan QR code blocks](https://i.ibb.co/0mCMn2h/Screenshot-7.png)
  
  3. Generate QR screen:
+ 
  ![Generate QR components](https://i.ibb.co/6tGzCJJ/Screenshot-2.png)
  ![Generate QR code blocks](https://i.ibb.co/kBKTYn1/Screenshot-8.png)
  
