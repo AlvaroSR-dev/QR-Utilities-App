@@ -26,7 +26,7 @@ As mentioned before, this app is made by blocks of code using the App Inventor C
  3. Generate QR screen:
  
  ![Generate QR components](https://i.ibb.co/6tGzCJJ/Screenshot-2.png)
- ![Generate QR code blocks](https://i.ibb.co/kBKTYn1/Screenshot-8.png)
+ ![Generate QR code blocks](https://i.ibb.co/kBKTYn1/Screenshot-8.png =600x)
  
 
 ## Dependences
