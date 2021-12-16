@@ -10,7 +10,7 @@ Fell free to download, use and modify it.
 
 ## Demo
 
-You can watch [here](https://youtu.be/OiD5ainhoxI) a the app demo.
+You can watch [here](https://youtu.be/OiD5ainhoxI) the app demo.
 
 ## Code blocks
 
